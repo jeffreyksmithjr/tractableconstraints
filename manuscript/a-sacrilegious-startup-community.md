@@ -1,3 +1,4 @@
+![A Sacrilegious Startup Community](images/nunner.jpg)
 ## A Sacrilegious Startup Community
 
 #### Taxiwise is the proof in the pudding
