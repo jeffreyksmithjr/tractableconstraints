@@ -1,6 +1,6 @@
-## Brilliant!
+# Brilliant!
 
-#### What tech startups can learn from a brewery
+### What tech startups can learn from a brewery
 
 * * *
 
@@ -13,7 +13,7 @@ topic.
 > A woman is like beer. They look good, they smell good, and you’d step over
 your own mother just to get one! — Homer Simpson
 
-### Local Beer
+## Local Beer
 
 
 
@@ -89,7 +89,7 @@ was absolutely a business from a beginning. Moreover, the enforced focus on
 their local and regional communities played a big role in the next chapter of
 the Boulevard story.
 
-### Local Bottles
+## Local Bottles
 
 Boulevard does a substantial portion of its overall business in kegs. You can
 find them on tap all over the KC region and beyond.
@@ -122,7 +122,7 @@ Some of the collected and recycled glass goes to regional fiberglass
 insulation plants, while the brown portion goes to be made back into Boulevard
 beer bottles and begin the cycle all over again.
 
-### Local Problems
+## Local Problems
 
 I think the most logical question to ask when hearing the story of Ripple
 Glass is, “Why Boulevard?” There were lots of people producing glass waste as

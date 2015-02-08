@@ -1,6 +1,6 @@
-## Free to be
+# Free to be
 
-#### Why LGBT pride is for everyone
+### Why LGBT pride is for everyone
 
 * * *
 
@@ -24,7 +24,7 @@ opinion.
 What I do think is important is freedom. Among others, I think that the
 freedom to be different is very important.
 
-### Free to be me
+## Free to be me
 
 
 
@@ -37,7 +37,7 @@ those things that lead to opportunity. Given that it’s what I spend my time
 on, I care a lot about how different people can be and still pursue a career
 in tech and startups.
 
-#### Being different in tech
+### Being different in tech
 
 Within the context of tech and startups, the issue of affinity bias is a very
 big deal. If you haven’t already, you should totally read Carlos Bueno’s
@@ -59,7 +59,7 @@ solutions](http://carlos.bueno.org/2014/06/refactoring.html) are great
 suggestions, but I feel like we’re really just at the beginning of this
 conversation amongst the tech community.
 
-#### Being different in New York
+### Being different in New York
 
 * * *
 
@@ -96,7 +96,7 @@ better societies.
 
 _Photo by James Nova __<https://www.flickr.com/photos/j-no/>_
 
-### Free to be alive
+## Free to be alive
 
 When watching [The Internet’s Own Boy](http://www.takepart.com/internets-own-
 boy), the documentary about Aaron Swartz, I found myself struck by first, how
@@ -115,7 +115,7 @@ powerless as to kill himself. Yet that’s just what happened. I can’t help bu
 view his death as a failure of the larger American community to be a more open
 place to debate important issues, intelligently and peacefully.
 
-#### Losing the different ones
+### Losing the different ones
 
 The LGBT community has had more than its fair share of losses. Many of the
 more tragic ones are stories much like Aaron Swartz’s: people who felt
@@ -152,7 +152,7 @@ little of the life he should have had. But I am also forever grateful that he
 got the chance to leave his message behind in the hearts of young people who
 would live on after he passed.
 
-### Free to be whomever
+## Free to be whomever
 
 I can only view the world through the lens of my own life. I’m a startup tech
 guy, a (new) New Yorker, and the nephew of a tragically lost uncle. From where

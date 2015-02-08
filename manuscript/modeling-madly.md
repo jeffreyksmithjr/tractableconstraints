@@ -1,6 +1,6 @@
-## Modeling Madly
+# Modeling Madly
 
-#### Machine learning at hackathons
+### Machine learning at hackathons
 
 * * *
 
@@ -16,7 +16,7 @@ hacker can easily find themselves with a great idea at a hackathon but with
 little to nothing to demo at the end. Accepting that my personal experience is
 just my own, let me offer three tips for building new models at a hackathon.
 
-### Time is not on your side.
+## Time is not on your side.
 
 When you’re doing a more traditional web app hack at a hackathon, you can
 almost run out of time and still come up with something pretty good as long as
@@ -51,7 +51,7 @@ demo.
 
 Which leads me to my next point…
 
-### Bite off less than you can chew.
+## Bite off less than you can chew.
 
 * * *
 
@@ -91,7 +91,7 @@ pedal-to-the-metal pace mandated by a hackathon. They are very different modes
 of working, and you’re just going to have suspend some of your good habits for
 a day or so, if you want to have something to demo.
 
-### Use lightweight tools.
+## Use lightweight tools.
 
 This last point can be the trickiest to put in practice, but I think it can
 totally be the difference between a project that feels like a hack and one
@@ -148,7 +148,7 @@ you’re doing [Elastic Map Reduce](http://aws.amazon.com/elasticmapreduce/) or
 [PredictionIO](http://prediction.io/) can get you to the point of being
 productive much faster.
 
-### I could have danced all night.
+## I could have danced all night.
 
 I love hackathons and their variations. They remind me of the fun old days in
 grad school, furiously hacking away to come up with something interesting to

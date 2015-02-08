@@ -1,10 +1,6 @@
-## Many Voices,
+# Many Voices, Equally Heard
 
-## Equally Heard
-
-
-
-#### What I learned about democracy at unconferences in Hong Kong
+### What I learned about democracy at unconferences in Hong Kong
 
 
 
@@ -31,7 +27,7 @@ useful way. Instead of talking about [that whole period](https://medium.com
 to talk about just three days during those years: the days that I went to
 BarcampHK.
 
-### My Camp Experience
+## My Camp Experience
 
 One of the most impactful experiences of my time in Hong Kong was attending my
 first [BarCamp](http://barcamp.org/w/page/402984/FrontPage). If you’re not
@@ -59,7 +55,7 @@ cycled through all of the names, showing each attendee and then randomly
 stopping on the winner. It was a huge hit and a perfect example of why people
 went to BarCamp: this was where all of the people who actually did stuff were.
 
-#### Talk it up
+### Talk it up
 
 One of my favorite uses of BarCamp was to try out talks that wouldn’t have
 made sense in another context. The wide latitude allowed by the unconference
@@ -120,7 +116,7 @@ partnership with a HK-local’s English language emceeing. It was a vivid way of
 demonstrating that everyone at BarCamp was interested in meeting everyone else
 there halfway, if it made for a better dialogue.
 
-#### Why BarCampHK mattered
+### Why BarCampHK mattered
 
 Obviously I had a good time at BarCamp in Hong Kong, but it may not be
 apparent why these events are worthy of discussion. I’m sure that they sound
@@ -151,7 +147,7 @@ listen to, discussions like this could be had, if we wanted to have them. When
 you ask people to vote with their feet, it can be surprising and encouraging
 to see just what people really vote for.
 
-### A Democratic Hong Kong
+## A Democratic Hong Kong
 
 ![](https://d262ilb51hltx0.cloudfront.net/max/800/1*Ud_xwPCCLOAzL-
 luMHUKlQ.jpeg)
@@ -255,7 +251,7 @@ approaches in the States. The time for full, direct elections has long-since
 arrived. Beijing needs to recognize that giving Hong Kong the freedom it
 deserves is the only long-term solution to the present difficulties.
 
-### Democracy is an unconference
+## Democracy is an unconference
 
 Despite what the above section might imply, I’m not a very political guy. I
 spend most of my time focused on the microcosms of tech startups and [big
@@ -302,7 +298,7 @@ business plan. Engaging in a free and open debate about the issues that face
 your technology and company is an absolutely critical practice in the
 development of a successful technology startup, IMHO.
 
-#### Unconferencing
+### Unconferencing
 
 If you’re in tech and you’ve not experienced the free and open debate that
 I’ve talked about before then I have some very specific suggestions for you:
@@ -311,7 +307,7 @@ I’ve talked about before then I have some very specific suggestions for you:
   * Similarly, if you’re interested in the same idea in an Asian setting, [CITCON will be coming to Hong Kong](http://citconf.com/hongkong2014/) in November. I’m optimistic that the Hong Kong tech community will join in and make the most of the event.
   * Finally, of course, right after CITCON Hong Kong, [BarCamp Hong Kong](http://www.eventbrite.com/e/barcamp-hong-kong-2014-tickets-12967936447) is happening again. If it’s not clear from the above, I couldn’t recommend these events more. I love how fully the community engages in the BarCamps, and if you can make it out, I think you will as well.
 
-### Conclusion
+## Conclusion
 
 I don’t know what the future holds for the government of Hong Kong. The latest
 news is that the protestors might be going home but that nothing has been

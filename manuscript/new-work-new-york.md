@@ -1,6 +1,6 @@
-## New Work, New York
+# New Work, New York
 
-#### What tech startups can learn from theater
+### What tech startups can learn from theater
 
 * * *
 
@@ -24,7 +24,7 @@ of innovation that comes from truly radical thinking is _de rigeur_ around
 these parts. So, if you’ll bear with me, I’d like to talk a bit about theater
 before getting back to my usual bailiwick, tech startups.
 
-### Immersive Theatre
+## Immersive Theatre
 
 Problem/Solution is a recently premiered immersive theatre production.
 Conceptually similar to the tremendously successful [Sleep No
@@ -48,7 +48,7 @@ touched by a stranger, have been covered in paint, have joined in a dance, or-
 most interestingly of all-have done none of these things, choosing to decline
 each offer to engage in the performance.
 
-### Sea Songs
+## Sea Songs
 
 Song of the Sea is a pair of thematically-related shows, SIRENS and The Girl
 From Bare Cove, both largely written by the somewhat startlingly talented
@@ -79,7 +79,7 @@ cannot help but be carried along on the waves of their support. It’s a
 powerful reminder of the dynamic range possible with an ensemble of voices-
 utterly unlike the vast majority of pre-packaged pop.
 
-### Learnable Startup Lessons
+## Learnable Startup Lessons
 
 Viewing independent productions like these can be an amazingly educational
 experience for the sufficiently open-minded startupper. There is a very real
@@ -91,7 +91,7 @@ nearly starving while the makers of [basically useless apps get
 acquihired](http://www.crunchbase.com/organization/summly) every week. In
 greater challenges, greater lessons can be learned.
 
-#### Do the difficult with friends
+### Do the difficult with friends
 
 In talking with the performers behind Problem/Solution, they talked about the
 importance of being friends before putting together the show. This is far from
@@ -108,7 +108,7 @@ experiences to the production. The most successful startups have many fathers;
 even that crank Paul Graham
 [agrees](http://www.paulgraham.com/startupmistakes.html).
 
-#### Be some place, not every place
+### Be some place, not every place
 
 Both of the pieces in Song of the Sea have a strong northeastern flavor to
 them, each with a well-founded and meaningful sense of place to them. While
@@ -134,7 +134,7 @@ I can’t think of anyone with that sort of deep commitment to a specific
 community in a specific place. If I did encounter such a startup, though, I’d
 probably be shouting at passing cars about it.
 
-#### Talk to the audience
+### Talk to the audience
 
 The fourth wall is a convention that has long been suspect within the
 theatrical tradition. Even though we’re standing up here shouting at the top
@@ -197,7 +197,7 @@ would probably be pretty amazing. Engineering hiring woes? These guys would
 not have them. People would be running campaigns just to get an internship at
 such a company.
 
-### Steps, baby or otherwise
+## Steps, baby or otherwise
 
 This post has turned out much more aspirational and utopian than I had
 initially planned. What can I say? Interesting art has that sort of effect on

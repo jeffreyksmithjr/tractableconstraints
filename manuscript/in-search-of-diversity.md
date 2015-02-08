@@ -1,5 +1,4 @@
-
-## In Search of Diversity
+# In Search of Diversity
 
 A machine learning perspective on meaningful differences
 
@@ -21,7 +20,7 @@ can act on. So that’s where I’ll focus. Drawing liberally from AI, biology,
 and the social sciences, I’m going to talk about the utility of diversity and
 why we technologists and startuppers should care about protecting it.
 
-### Ensemble models
+## Ensemble models
 
 In machine learning (ML), we build models. These are programs that make
 decisions based on data. Typically, they learn from some set of past data and
@@ -40,7 +39,7 @@ ensemble is that you may not be getting the supposed benefits of an ensemble,
 even though you nominally have multiple models. How could this happen? A lack
 of diversity.
 
-#### Classifying cute
+### Classifying cute
 
 Let’s take for an example a simple classification problem. We’ll try to
 determine if my dog looks cute in this dress:
@@ -79,7 +78,7 @@ So, sometimes we _think_ that we have multiple models, but since they all
 agree, all of the time, we don’t. All we have is likely a slower, more complex
 way of expressing the same decision making process.
 
-### Diversity in startup teams
+## Diversity in startup teams
 
 Zooming out of this somewhat abstract discussion of machine learning, it’s
 easy to see how these concepts have clear corollaries in our working life.
@@ -111,7 +110,7 @@ models reducing to a single model. It also results in a organizational plan
 that is classist, sexist, and a bit racist, but hey, Levchin made a bunch of
 money, so who am I to disagree with his perspective?
 
-#### Diversity’s difference
+### Diversity’s difference
 
 Instead, I’ll call out the work of the incredible [Scott E.
 Page](http://vserver1.cscs.lsa.umich.edu/~spage/), in particular, his book
@@ -165,7 +164,7 @@ be won over by this bold new vision of French bulldogs in trench coats. Or
 maybe it will all come toppling down in a pile of fur and stolen clothes. Such
 are the risks of homegeneity.
 
-### Creating diversity
+## Creating diversity
 
 In neither machine learning nor in startups do we need to take things as they
 come. When we find a lack of diversity, we can act to preserve the diversity
@@ -197,7 +196,7 @@ that some of the richest corporations in the world haven’t cracked. I won’t 
 solving it in this blog post, but I’d like to propose one strategy to make
 things better.
 
-#### Islands unto themselves
+### Islands unto themselves
 
 Being a former biology guy, I’m inclined to look to evolution for the answer
 to this problem. Fun fact: evolution _loves_ diversity. In fact, it can’t

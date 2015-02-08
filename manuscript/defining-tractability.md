@@ -1,6 +1,6 @@
-## Defining tractability
+# Defining tractability
 
-#### What the Tractable Constraints collection is all about
+### What the Tractable Constraints collection is all about
 
 The Lone Tenement by George Bellows
 
@@ -11,7 +11,7 @@ your time to read or follow. If you write stories on Medium, you might also be
 wondering if this is a collection that you’d like to contribute to. Let me
 offer this basic FAQ to help you out.
 
-### What sort of stories are here already?
+## What sort of stories are here already?
 
 I’m a software developer who has spent most of my adult life working on
 startups in cities I felt passionately about. So when I brought my writing to
@@ -22,7 +22,7 @@ Medium, I found that I wanted to write stories about:
   * [What young companies can learn from scrappy artists](https://medium.com/@jeffksmithjr/new-work-new-york-4a9aabecb0b0)
   * [Why free and open societies really are for everyone](https://medium.com/tractable-constraints/free-to-be-1e549cd94f97)
 
-### What sort of stories belong here?
+## What sort of stories belong here?
 
 Thus far this collection has been focused on:
 
@@ -46,7 +46,7 @@ all of these are a part of where ideas come from and where debate occurs. But,
 in the terms of the pig and the chicken at breakfast, I’m inclined to prefer
 the beast who is committed, not just involved.
 
-### Why does this collection exist?
+## Why does this collection exist?
 
 With [all](https://medium.com/@Medium/the-future-of-collections-79e6ea385113)
 [of the](https://medium.com/@Medium/the-future-of-collections-79e6ea385113)

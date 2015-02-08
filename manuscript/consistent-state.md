@@ -1,4 +1,4 @@
-##  Consistent State and Other Delusions
+#  Consistent State and Other Delusions
 
 I find that computer science is at its most engaging when it's making a really
 big point, but couching it in very subtle, almost cryptic terms. It's kind of
@@ -11,7 +11,7 @@ seen it). But then when a broad point of huge applicability is illuminated
 through CS, well, that's worthy of some brief asides before getting on with
 the exciting work of lemmas or simulation results.
 
-### consistent is a state of mind
+## consistent is a state of mind
 
 Database nerds have this concept called consistent state. At it's simplest, it
 means that if you have, say two sales recorded, one for $2 and another for $3,
@@ -37,7 +37,7 @@ state? And my personal favorite, what if that magnetic spinning disk made a
 tiny error? Does it then cease to be the one canonical source of all knowlege,
 carried down by Charlton Heston from on high?
 
-### ACID reflux
+## ACID reflux
 
 Let's get back to consistency.
 
@@ -61,7 +61,7 @@ databases resolving internal consistency. It's an absurd concept. The party
 line is that "it's handled by the application logic", which as academic way of
 saying, "I see no possibility of publication in your question."
 
-### the older I get, the less I know
+## the older I get, the less I know
 
 Lots of software developers aren't comfortable with the idea that all of these
 simplifying assumptions might not just be literally untrue but meaningfully
@@ -87,7 +87,7 @@ artificially narrow boundaries a bit, you can get a good enough answer. I view
 this as a more detailed and actionable version of, "All models are wrong, but
 some are useful."
 
-### ideas worth spreading
+## ideas worth spreading
 
 My big question when I come across insights like this, is:
 

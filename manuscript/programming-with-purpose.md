@@ -1,6 +1,6 @@
-## Programming with Purpose
+# Programming with Purpose
 
-#### The responsibilities of 21st century developers
+### The responsibilities of 21st century developers
 
 * * *
 
@@ -31,7 +31,7 @@ for them. There’s no shame in this anymore than there is in being a truck
 driver, grocer, or garbage man. We provide a service (SaaS pun only slightly
 intended).
 
-### Doing more
+## Doing more
 
 But anyone who’s been paying attention lately has recognized that programmers
 can have a massive impact on the world. Hell, you don’t even really need to be
@@ -48,7 +48,7 @@ had an Uncle Ben, he’d have already sat us down and talked us through the
 relationship of power to responsibility. But we don’t have an uncle, so we’re
 finding our way, more or less on our own.
 
-### Bs are better than Cs
+## Bs are better than Cs
 
 One of the most exciting developments in this space has been
 [B-Corps](https://www.bcorporation.net/). They’re a novel idea very much born
@@ -83,7 +83,7 @@ day](http://www.stephenforte.net/AcceleratorHK+Cohort+2+Demo+Day.aspx) for
 their AcceleratorHK cohort was hosted at just such a community minded place,
 [the Good Lab](http://goodlab.hk/).
 
-### Free as in beer
+## Free as in beer
 
 The astute reader probably was waiting for me to address the big elephant in
 the room, open source software. Haven’t programmers been pouring their hearts
@@ -105,7 +105,7 @@ indeed.
 So, if your asynchronous tweet processing distributed queue project doesn’t
 count as coding for the common good, what does? Here’s a few suggestions:
 
-#### [Code for America](http://codeforamerica.org/)
+### [Code for America](http://codeforamerica.org/)
 
 There’s lots of ways to positively influence your community by, you know,
 literally working on its behalf. Want a specific recommendation? Try [the
@@ -113,7 +113,7 @@ Consumer Financial Protection Bureau](http://www.consumerfinance.gov/). They
 have a great mission and some real focus on how to use software to make it
 happen.
 
-#### Teach what you know
+### Teach what you know
 
 Another exciting route that a lot of people are talking about is teaching
 software development. In particular, you can go into high schools, work with
@@ -122,7 +122,7 @@ underrepresented groups, and try to give kids a powerful skill to address the
 [TEALS](http://www.tealsk12.org/), but a minute of googling can turn up tons
 more.
 
-#### Build better
+### Build better
 
 If it wasn’t clear from my discussion of B-Corps above, my heart is definitely
 in this category. Having spent much of my adult life in the startup world, I

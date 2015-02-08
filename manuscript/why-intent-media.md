@@ -1,4 +1,4 @@
-##  Why Intent Media
+#  Why Intent Media
 
 My [previous post on New York startups](http://toromon.com/new-new-york.html)
 left out one big topic: who did I choose to work with and why? This post is
@@ -7,7 +7,7 @@ other ways that companies can get recruiting right or wrong, based on my
 (admittedly limited) experience as an engineer who has talked to his fair
 share of companies.
 
-### assumptions
+## assumptions
 
 I'm going to go out on a limb in this scenario and assume that you're good at
 what you do. In fact, you're good enough to have choices, but maybe not so
@@ -16,7 +16,7 @@ to mostly focus on that sweet spot of someone who is looking for a great
 company and might deserve to get into one. I think that covers a lot of folks
 and definitely most of the folks that hiring teams are targeting.
 
-### dating employers
+## dating employers
 
 I think the process of dating potential future employers is solidly weird. It
 reminds me of my days running men's recruitment for the several thousand
@@ -32,7 +32,7 @@ In the largely heternormative [1] environment of a fraternity, this model is
 surprising enough to stick in a guy's brain while still nudging him towards
 thinking about just how challenging this problem is. [2]
 
-#### both sides of the table
+### both sides of the table
 
 The dating model implies one thing right off the bat: this is a two-sided
 negotiation. The frat is trying to find the guys it wants _and_ trying to get
@@ -43,7 +43,7 @@ issues that come in tech recruitment stem from questionable choices that
 privilege one of these two sides over the other. I think getting this balance
 right is hugely challenging.
 
-### the girls (not a lena dunham production)
+## the girls (not a lena dunham production)
 
 So, similar to my [post on CS degrees](http://toromon.com/degrees.html) I'm
 going to group some common behaviors into three archetypes.
@@ -52,7 +52,7 @@ going to group some common behaviors into three archetypes.
   * Patty Princess-Obviously, she's the best place in this or any other universe for an engineer to work. Nominally, she is hiring, but only if you're one of the chosen few. You better want it enough to earn it, bub.
   * Maddy Mature-She cares a lot about the engineers she hires, but she also understands the math of fish in the sea. She just wants to hire well, but she knows that puts some responsibilities on her plate.
 
-#### debby
+### debby
 
 Why is Debby so desperate? Well, often, for really good reasons, like the
 business is roaring along and growing like crazy. Of course, if she can't hire
@@ -80,7 +80,7 @@ Sometimes is less is simply less, and I would say that Debby's approach is
 just not doing a thorough enough job of building her company in an intelligent
 and reasoned way.
 
-#### patty
+### patty
 
 Well, if Debby is a mess, then her exact opposite, Patty, must be in great
 shape, then, right? Um, nope.
@@ -116,7 +116,7 @@ have a valid view of the universe. Engineers today can be so much more than
 hangers-on to someone else's greatness. Her fundamental lack of respect for
 the people who do her work is just troubling.
 
-#### maddy
+## maddy
 
 We all know our Goldilocks. This is the time we get to the porridge that is
 "just right". So what is just right?
@@ -153,7 +153,7 @@ Maddy, [Intent Media](http://www.intentmedia.com/about). As a company, it is
 110% of the ideal I described above. Rather than recap our
 [values](http://www.intentmedia.com/about) , let me give a simple example.
 
-#### the bad functional programmer
+### the bad functional programmer
 
 At another company, I once had a barely technical manager take apart some of
 my code to show how a functional programming approach would be so much more
@@ -165,7 +165,7 @@ memory inefficient and slower, big problems for the embedded device we were
 developing for. Ultimately, his motivations for religious dogmatism around FP
 were all about fashion and not a bit about productivity.
 
-#### the good functional programmer
+### the good functional programmer
 
 Contrast this with my discussion of FP when interviewing with Intent Media.
 We:
@@ -182,7 +182,7 @@ Throughout this process, there was a fair and respectful back-and-forth. No
 trivia or tricks; just a transparent search for a solution to the problem
 posed.
 
-#### the etc.
+### the etc.
 
 Beyond this simple example, I'd point out that people at IM _are_ doing some
 great stuff with FP (in Clojure!). But that's just the tip of the iceberg. A

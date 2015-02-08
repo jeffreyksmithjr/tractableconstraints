@@ -1,10 +1,10 @@
-##  Pointy Tools
+#  Pointy Tools
 
 After spending a bit of time blogging on Medium, I thought that I would return
 to this venue for a post on something ever so slightly more technical. In
 particular, I want to discuss my love-hate relationship with pointy tools.
 
-### demo
+## demo
 
 Are you on a Mac right now? You are? Great. Let me show you something awesome.
 Open your terminal. You don't know what that is? No biggee. It's just an app.
@@ -26,7 +26,7 @@ people who are dangerously in love with pointy tools like Unix file deletion.
 Who are these nefarious souls? Highly competent professional programmers,
 mostly.
 
-### git pushiness
+## git pushiness
 
 My immense distaste for Git (and preference for [alternative
 tools](http://toromon.com/tag/mercurial.html) is reasonably well documented.
@@ -66,7 +66,7 @@ tool, only suitable for use by super humans like Linus Torvalds and Ken
 Ritchie. It's not like there's an absolutely essential social network built
 around this tool or anything.
 
-### dynamic indeterminacy
+## dynamic indeterminacy
 
 If this were just Git or even just Unix, then I truly wouldn't care. But it's
 not just these specific contexts. The issue of when to use pointy tools comes
@@ -80,7 +80,7 @@ language](http://toromon.com/tag/python.html) , but I really don't get this
 point. Type inference is a godsend, but not being able to verify object types
 at compile time is just a limitation.
 
-### better blogging
+## better blogging
 
 To give one last example of the problems that a preference for pointy tools
 can cause, let's look at blogging. The technical setup for this blog is almost
@@ -125,7 +125,7 @@ than little tweaks to my blogging workflow. Even then, though, I'm still
 considering posting to this site as well, for the sole reason that code syntax
 highlighting is not considered a core feature of most blogging platforms.
 
-### rounder points
+## rounder points
 
 Don't get me wrong: I love Unix and the wild, hairy world of thinly-documented
 open source software. I just think that we as developers learn intrinsically

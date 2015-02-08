@@ -2,9 +2,9 @@
 
 * * *
 
-## A Sacrilegious Startup Community
+# A Sacrilegious Startup Community
 
-#### Taxiwise is the proof in the pudding
+### Taxiwise is the proof in the pudding
 
 * * *
 
@@ -21,7 +21,7 @@ conservative and traditional city.
 I hadn’t had reason to really blog about that experience, until recently, when
 two big and related events occurred.
 
-### Startup Sacrilege
+## Startup Sacrilege
 
 The first big event was the release of [Paul
 Orlando](http://startupsunplugged.com/)’s first book, [Startup
@@ -40,7 +40,7 @@ presentation](http://www.slideshare.net/porlando/farewell-hong-kong-startups)
 writing this, I was struck again by how much one person contributed in so
 little time.
 
-### Taxiwise
+## Taxiwise
 
 The other event was far more unexpected and, in a way, far more important:
 [Taxiwise](http://www.taxiwise.co/) [got acquired](http://www.techinasia.com
@@ -48,7 +48,7 @@ The other event was far more unexpected and, in a way, far more important:
 the HK tech community, I can’t convey how big of a deal this is. Why? Taxiwise
 is evidence that success is attainable in HK.
 
-### Acceleration
+## Acceleration
 
 Specifically, Taxiwise is very much the product of some concerted efforts to
 build the Hong Kong startup community and have it produce real businesses. The
@@ -68,7 +68,7 @@ businesses. With the Taxiwise acquisition, I think that it’s clear to everyone
 now that it is very much achievable within the constraints of HK. What I think
 Paul’s book makes clear is that success is achievable anywhere.
 
-### Sacrilege Dissected
+## Sacrilege Dissected
 
 I do very much think that, if you found this post at all interesting, you owe
 it to yourself to spend some time reading Paul’s book and thinking it through.
@@ -76,7 +76,7 @@ That said, I want to call out a couple of his points that I think were crucial
 in the positive impact he and Steve’s programs had on the Hong Kong tech
 community, and on the success of Taxiwise, in particular.
 
-#### Skip the startup entertainment; talk your customers instead.
+### Skip the startup entertainment; talk your customers instead.
 
 This is such a basic point that unfortunately requires reiteration in so many
 contexts. Reading about cool startups is not building a business. Going to
@@ -93,7 +93,7 @@ As Paul mentions in the book, the Taxiwise guys absolutely pulled away from
 their Twitter feeds and engaged with the real problems of transportation in
 Hong Kong.
 
-#### Build your community; don’t chase celebrities.
+### Build your community; don’t chase celebrities.
 
 This is a more constructive extension of the previous point. There’s no point
 in trying to get Brian Chesky, Dave McClure, or whoever to show up to your big
@@ -114,7 +114,7 @@ success of startups in your city.
 
 * * *
 
-### Community matters
+## Community matters
 
 I wanted to tell this story, because I wanted to share this very clear object
 lesson in the power of building a community. Clearly, the success of Taxiwise

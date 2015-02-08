@@ -1,4 +1,4 @@
-## The Difficulty of Degrees
+# The Difficulty of Degrees
 
 I want to talk about the not-so-
 standard undergrad degree in CS. But don't run away just yet!
@@ -8,12 +8,12 @@ standard undergrad degree in CS. But don't run away just yet!
 Instead I want to talk about how gaps in our education can make for real gaps
 in our skills.
 
-### dancing in the dark
+## dancing in the dark
 
 With apologies to the Boss, here's my view on the road to becoming a software
 dev, that doesn't route through a BS in CS.
 
-#### you can't start a fire without a spark
+### you can't start a fire without a spark
 
 I'd say that this path is typified by a lot of the same stuff that causes
 people to take a more accepted route into software. It comes down to being
@@ -22,14 +22,14 @@ enjoyment. With that, often comes a love of tinkering, a desire to build
 something new, and a special sort of tunnel vision that can only come from
 passion.
 
-#### this gun's for hire
+### this gun's for hire
 
 Of course, the other dimension of this archetypical dev is that he's already
 writing code for a living, without all of the benefits of an undergrad in CS.
 All of the good qualities in the above description have led him to develop
 sufficient skills to say, pay rent from his code.
 
-#### even if we're just dancing in the dark
+### even if we're just dancing in the dark
 
 Here's the part I've been building up to. Just coding is totally a legitimate
 route toward becoming a competent and productive developer. But it is super
@@ -48,7 +48,7 @@ saying "Will code for food". They're gainfully employed wreaking havoc in
 somebody's codebase. This isn't impostor syndrome; these guys are just bad at
 their chosen professions.
 
-#### there's a joke here somewhere and it's on me
+### there's a joke here somewhere and it's on me
 
 I don't want to be a dick about any of these guys; that's why they're
 archetypes. In real life, they're people, usually people with normal,

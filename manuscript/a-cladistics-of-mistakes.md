@@ -1,6 +1,6 @@
-## A Cladistics of Mistakes
+# A Cladistics of Mistakes
 
-#### Classifying model failure modes
+### Classifying model failure modes
 
 * * *
 
@@ -22,7 +22,7 @@ classes of errors and generally useful strategies. My hope is to propose some
 worthwhile suggestions on where you might want to spend your time, when you
 decide you want to make your modeling code safer.
 
-### Failing as software
+## Failing as software
 
 This is the easiest sort of failure to understand. It’s common to all sorts of
 software, not just data science applications, which means that most
@@ -75,7 +75,7 @@ set of inputs to a single set of outputs (old ones, in fact). The data that
 this model is going to be used on in production is, by definition, not found
 in the testing set. It does not exist yet.
 
-#### Test plan of attack
+### Test plan of attack
 
 The specific software failure issue that this brings up is that varying inputs
 have the potential to produce radically different outcomes. Boundary testing
@@ -117,7 +117,7 @@ development, QA, and deployment. The amortized costs of building in validation
 of the modeling system as a piece of software will easily pay for itself over
 time.
 
-### Failing as a model
+## Failing as a model
 
 If you’re from more of a data science background than a software engineering
 background, you’re likely to think of model failure in an entirely different
@@ -132,7 +132,7 @@ to be enough to cover all that you might want to consider, so let me break
 down the topic in a different context than my usual bailiwick of tech
 startups.
 
-#### Taking and making money
+### Taking and making money
 
 Consider a financial trading organization. In such organizations, quants (what
 data scientists were called when they had to wear suits) develop models. Those
@@ -155,7 +155,7 @@ usually don’t make the news. These are models that were typically optimized to
 make money and they do the opposite. From a model performance perspective,
 that’s about as bad as it can get.
 
-#### Modeling success
+### Modeling success
 
 So how do models fail as models and how can we prevent our models from failing
 in the same way?
@@ -190,7 +190,7 @@ for a data science team to allocate real time and effort towards exploring
 building into their system. Stable models in the presence of concept drift
 could be hugely useful to your organization.
 
-#### Culture
+### Culture
 
 Jack Welch [has been known to
 say](http://www.forbes.com/sites/stevedenning/2012/04/26/jack-welch-ge-the-
@@ -226,7 +226,7 @@ organizationally visible. I fully appreciate that getting to that point is
 much harder than it sounds for modeling applications, but I think that it’s a
 journey with taking.
 
-### Failing by association
+## Failing by association
 
 This category of failure is hardest to characterize, which is why I left it
 for last. It can be the most amorphous, but it can also be the most important
@@ -243,7 +243,7 @@ software application. The distinction I’m trying to make is between the model
 itself and the system as a whole. Machine learning code can be the absolutely
 critical heart of a system, but it’s rarely the _whole_ system.
 
-#### A bug not a feature
+### A bug not a feature
 
 The closest subsystem to the actual modeling code is the feature generation
 code. This is the code that takes raw inputs of some sort and produces
@@ -274,7 +274,7 @@ concepts to code.
 
 **The feature set is wrong. **Depending on the design of the application, this could be due to how the feature extractors were called, how their inputs were prepared, or other aspects of the environment. This is very likely to be a silent failure, making it all the harder to find. Without functionality designed to make this information explicit, the feature set used in model, during learning or evaluation, might be very difficult to impossible to assess. Focusing on ways to reliably and transparently compose feature sets is a worthwhile priority for a data engineering function. The failures it causes are subtle and expensive to find, and the sorts of design decisions that come out of a prevention strategy can lead to better, more comprehensible code.
 
-#### Coupled to a failure
+### Coupled to a failure
 
 Beyond feature-based failures of the related subsystems, there’s still an
 exciting world of all sorts of other ways that the supporting software can

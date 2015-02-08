@@ -1,6 +1,6 @@
-## Engineering your own education
+# Engineering your own education
 
-#### The journey of a lifetime
+### The journey of a lifetime
 
 * * *
 
@@ -49,7 +49,7 @@ feature story in our backlog. We just need to make sure that a little thing
 like hubris doesn’t get in the way of learning the things we need to know to
 solve the real world problems in front of us.
 
-### Learning how to learn
+## Learning how to learn
 
 
 
@@ -70,7 +70,7 @@ perspective and what people want to talk to me about. But I think these tools
 and techniques apply equally to all kinds of engineers, including those oh, so
 sexy data scientists. They’re engineers too.
 
-#### The Old (and New) School
+### The Old (and New) School
 
 You can’t talk about learning and software qualifications without wading into
 the contentious territory of whether or not programmers need a CS degree. This
@@ -125,7 +125,7 @@ that didn’t necessarily give us much of a chance to go to a place like
 Stanford. But now that Stanford is just giving away their education, you need
 to step up to the plate, if you have big data dreams.
 
-#### Learning on the clock
+### Learning on the clock
 
 I think that most smart junior engineers have an appreciation for the material
 in the previous section. Most promising candidates I meet understand that they
@@ -259,7 +259,7 @@ up blogging again](http://toromon.com/static-blogging-so-far.html) was to do
 [a bit of teaching](http://toromon.com/category/computer-science.html) as part
 of my personal educational activities.
 
-### Learning how to choose
+## Learning how to choose
 
 I hope all of the above material is useful to the junior engineer looking to
 understand how they develop the skills to get a good tech job. I understand

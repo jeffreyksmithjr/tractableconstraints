@@ -1,6 +1,6 @@
-## Stupid Engineering Tricks
+# Stupid Engineering Tricks
 
-#### Ignoring scalability and scraping myself
+### Ignoring scalability and scraping myself
 
 * * *
 
@@ -17,7 +17,7 @@ to a more lengthy discussion of a more difficult one. My goal is to share a
 bit of my perspective on why the engineer’s instinct to automate and optimize
 shouldn’t always be listened to.
 
-### Composition
+## Composition
 
 In [my previous post on my blog workflow](https://medium.com/data-
 engineering/42e5e059d240) I described my thoughts around how I’d like some of
@@ -68,7 +68,7 @@ representations of my text will allow me to reason more clearly about what I’m
 writing. It absolutely means that I’m going to be in for more hassle than the
 serious static site bloggers, but I’m onboard with that.
 
-### Extraction
+## Extraction
 
 Beyond the compositional experience, I have another reason for harping on what
 is, admittedly a total [first world problem](http://first-world-
@@ -76,7 +76,7 @@ problems.com/), and that reason is why I’m discussing this issue in the
 context of a data engineering collection. I have some experience of the power
 and pain of extracting valuable data from its messy context.
 
-#### The Facts of Life
+### The Facts of Life
 
 As I described in [the previous post](https://medium.com/data-
 engineering/42e5e059d240), I used to work at [Ingenuity
@@ -150,7 +150,7 @@ will constantly leave you exposed to. Again, NLP definitely has a role to play
 in biological research, but machine doesn’t always triumph over man to make
 the better business.
 
-#### Beyond Biotech
+### Beyond Biotech
 
 Choosing the approach that doesn’t necessarily scale has examples in machine
 learning as well. Most machine learning/data science groups are spending a lot
@@ -179,7 +179,7 @@ product visions that become compellingly designed products. Is finding a bunch
 of people like that challenging? Sure. But there is often no substitute for
 the unique contribution of a talented professional. There shouldn’t be.
 
-#### Mirror Blogiverse
+### Mirror Blogiverse
 
 Let’s descend from this discussion of biological fact extraction back to my
 little blogging problem. Focusing on Step 2 from my list above, I need someway

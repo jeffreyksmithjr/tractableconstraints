@@ -1,4 +1,4 @@
-##  Programming Functionally (for food)
+#  Programming Functionally (for food)
 
 One of my main goals when finding a [job](http://toromon.com/why-im.html) [in
 New York tech](http://toromon.com/new-new-york.html) was to actually get a
@@ -10,13 +10,13 @@ I wanted to give my (obviously extremely limited) perspective on FP in real
 life, but I realized that there is a zeroth topic to address: what languages
 are people actually writing functional code in?
 
-### languages
+## languages
 
 I think the intersection of programming language enthusiasts and FP
 enthusiasts is absurdly large. So when talking about with developers, I find
 that the conversation quickly turns to specific languages.
 
-#### tree branches
+### tree branches
 
 Within the FP tradition, there are really two major branches. The oldest is,
 of course, the Lisp branch. It wears its mathematical roots on its sleeve and
@@ -29,7 +29,7 @@ languages. If your focus is, like mine was, to find a job writing functional
 code _and_ getting paid for it, then the list of actual languages is down to
 basically two, in my opinion. Sound hard to believe? Here's my reasoning.
 
-#### popularity
+### popularity
 
 Let's look through some data to get a feel for where you might actually be
 able to put your knowledge of immutability and referential transparency to
@@ -109,7 +109,7 @@ Those 17 jobs listing Haskell, some are actually Scala jobs, with many of the
 rest coming from Jane Street, which is actually a pure OCaml shop (they're
 also the source of those F#-tagged job posts as well).
 
-### my point
+## my point
 
 So what was my point in going through all of that? Well, I wanted to draw a
 reasonably bright line between those languages worthy of your study and those

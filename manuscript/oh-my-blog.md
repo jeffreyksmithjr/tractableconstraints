@@ -1,6 +1,6 @@
-## Oh. My. Blog.
+# Oh. My. Blog.
 
-#### My first world (data) problem
+### My first world (data) problem
 
 * * *
 
@@ -17,7 +17,7 @@ In this post, I’m not going to try to solve everything, but I’d like to walk
 through my current difficulties in how I blog, after laying a bit of
 groundwork first.
 
-### Lambda- the ultimate?
+## Lambda- the ultimate?
 
 There is an idea discussed a fair bit in data engineering circles, called [the
 Lambda Architecture](http://lambda-architecture.net/). It is meant as a sort
@@ -56,7 +56,7 @@ reasons](http://toromon.com/fp-for-food.html).
 
 * * *
 
-### Independent data
+## Independent data
 
 Once you’ve made this sort of mental reorientation, it’s much clearer that
 there is not a single constant presentation form of the source data. Your
@@ -79,7 +79,7 @@ of life. Tricky stuff, no doubt. If we could do something useful with
 notoriously difficult biological data, surely there’s some way to make forward
 progress with my little blogging problem.
 
-### Blogflows
+## Blogflows
 
 Originally, when I started blogging on [my own site](http://toromon.com/),
 wrote all of my posts in
@@ -116,7 +116,7 @@ huge impact on how well they can learn and grow. Here’s [a great summary of
 the research](https://medium.com/message/the-joy-of-typing-fd8d091ab8ef), on
 Medium.
 
-### [Insert solution here]
+## [Insert solution here]
 
 What I wish this blog post was is an announcement of my new open source webapp
 that solves this problem. It’s not. I couldn’t dream of writing a document
@@ -125,7 +125,7 @@ going to describe my wishlist of tools. My hope is that I can get some
 feedback on how 80% of what I want can already be done. If I can get that far,
 then I may be so bold as to take a crack at the remaining 20%.
 
-#### Composition
+### Composition
 
 This is the killer part. Medium’s editor is incredibly useful. There’s nothing
 even close, so far as I can tell. Ghost blogs approach the beauty of the
@@ -144,7 +144,7 @@ any other interested developer) could just suck back out the necessary post
 data for use in other contexts. Am I unreasonably optimistic to wish that this
 will some day be the case? Perhaps, but I hope not.
 
-#### Publishing
+### Publishing
 
 Once I have my data (blog posts) in a representation independent format, I
 want to be able to publish derived versions (pretty web pages) in multiple
@@ -155,7 +155,7 @@ Personally, I find Pelican to be a solid platform that’s very easy to use and
 extend, so I’m not inclined to switch anytime soon. But I absolutely want to
 maintain the ability to do so.
 
-#### Orchestration, etc.
+### Orchestration, etc.
 
 Once I’ve gotten the above working as I’d like for my final workflow to go
 something like this:
