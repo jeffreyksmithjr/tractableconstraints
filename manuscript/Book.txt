@@ -2,11 +2,11 @@ defining-tractability.md
 new-york-tech.md
 why-intent-media.md
 programming-functionally-for-food.md
+new-work-new-york.md
+a-sacrilegious-startup-community.md
 a-venture-into-uncertainty.md
 consistent-state.md
 pointy-tools.md
-a-sacrilegious-startup-community.md
-new-work-new-york.md
 programming-with-purpose.md
 free-to-be.md
 brilliant.md
