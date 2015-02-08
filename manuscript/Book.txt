@@ -1,21 +1,21 @@
 defining-tractability.md
 new-york-tech.md
 why-intent-media.md
-programming-functionally-for-food.md
 new-work-new-york.md
 a-sacrilegious-startup-community.md
+free-to-be.md
+brilliant.md
+many-voices-equally-heard.md
 a-venture-into-uncertainty.md
 consistent-state.md
 pointy-tools.md
 programming-with-purpose.md
-free-to-be.md
-brilliant.md
 modeling-madly.md
 oh-my-blog.md
 stupid-engineering-tricks.md
-many-voices-equally-heard.md
 a-cladistics-of-mistakes.md
 difficulty-of-degrees.md
+programming-functionally-for-food.md
 engineering-your-own-education.md
 in-search-of-diversity.md
 

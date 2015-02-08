@@ -1,5 +1,3 @@
--# Engineering data
-
 # Modeling Madly
 
 ### Machine learning at hackathons
